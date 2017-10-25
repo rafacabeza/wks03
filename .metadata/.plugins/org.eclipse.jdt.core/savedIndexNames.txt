@@ -1,0 +1,5 @@
+INDEX VERSION 1.130+C:\programacion\03_Estructuras_de_Programacion\wks_03\.metadata\.plugins\org.eclipse.jdt.core
+2298930795.index
+2849055620.index
+963526165.index
+3026233223.index
